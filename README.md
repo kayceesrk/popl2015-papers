@@ -187,4 +187,5 @@ Links to [accepted papers][popl2015-accepted] for the [42nd ACM SIGPLAN-SIGACT S
   by Michael D. Adams
 
 * **Data Parallel String Manipulating Programs**  
+  ([tech report](http://research.microsoft.com/pubs/169014/MSR-TR-2012-72.pdf))  
   by Margus Veanes, Todd Mytkowicz, David Molnar and Ben Livshits
